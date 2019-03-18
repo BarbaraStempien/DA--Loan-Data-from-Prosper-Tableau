@@ -5,6 +5,7 @@ _Barbara Stempien_
 ## Table of Contents
 
 * [Project description](#Project-description)
+* [story Links](#Story-Links)
 * [Summary](#Summary)
 * [Design](#Design)
 * [Feedback](#Feedback)
@@ -17,6 +18,11 @@ Prosper Marketplace, Inc. is a San Francisco, California-based company in the pe
 Borrowers request personal loans on Prosper and investors (individual or institutional) can fund anywhere from $2,000 to $35,000 per loan request. Investors can consider borrowers’ credit scores, ratings, and histories and the category of the loan. Prosper handles the servicing of the loan and collects and distributes borrower payments and interest back to the loan investors.
 
 I have analyzed Prosper's loan data set, which contains 113,937 loans with 81 variables on each loan (including loan amount, borrower rate, current loan status, borrower income, and many others) to present a short story on the state of the peer-to-peer loans.
+
+## Story Links
+
+[Initial version of Prosper Story](https://public.tableau.com/profile/barbara.stempien#!/vizhome/ProsperLoanDatav1_15528462802050/PropserLoansv1)
+[Final version of Prosper Story](https://public.tableau.com/profile/barbara.stempien#!/vizhome/ProsperLoanDatav2_15528464193580/PropserLoansv2)
 
 ## Summary
 
