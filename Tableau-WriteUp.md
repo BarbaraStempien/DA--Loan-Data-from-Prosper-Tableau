@@ -21,7 +21,8 @@ I have analyzed Prosper's loan data set, which contains 113,937 loans with 81 va
 
 ## Story Links
 
-[Initial version of Prosper Story](https://public.tableau.com/profile/barbara.stempien#!/vizhome/ProsperLoanDatav1_15528462802050/PropserLoansv1)
+[Initial version of Prosper Story](https://public.tableau.com/profile/barbara.stempien#!/vizhome/ProsperLoanDatav1_15528462802050/PropserLoansv1)  
+</br>
 [Final version of Prosper Story](https://public.tableau.com/profile/barbara.stempien#!/vizhome/ProsperLoanDatav2_15528464193580/PropserLoansv2)
 
 ## Summary
